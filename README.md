@@ -10,7 +10,7 @@ Welcome to my GitHub profile. I'm a student at Universidad Europea de Madrid, cu
 ## Skills
 ### Programming Languages
 
-- **Programming Languages:** Python
+- **Programming Languages:** Python, Java
 - **Data analysis:** Pandas, Numpy, matplotlib
 - **Machine learning libraries:** Scikit-Learn, Statsmodel
 - **Databases:** MySQL
